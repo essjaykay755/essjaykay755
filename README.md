@@ -21,8 +21,7 @@ Tools      : Git, Docker, VS Code
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=essjaykay755&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](Your-Twitter-URL)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)]([Your-Twitter-URL](https://x.com/essjaykay755))
 
 ### ⚡ Fun fact
 I love turning coffee into code! ☕
