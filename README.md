@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm essjaykay755
 
-<!--
-**essjaykay755/essjaykay755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Software enthusiast passionate about building meaningful solutions. 
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Exploring new technologies
+- Building impactful projects
+- Contributing to open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+```text
+Languages  : JavaScript, Python, Java
+Frontend   : React, HTML5, CSS3
+Backend    : Node.js, Express
+Database   : MongoDB, PostgreSQL
+Tools      : Git, Docker, VS Code
+```
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=essjaykay755&show_icons=true&theme=dark)
+
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your-LinkedIn-URL)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](Your-Twitter-URL)
+
+### ⚡ Fun fact
+I love turning coffee into code! ☕
+
+---
+⭐️ From [essjaykay755](https://github.com/essjaykay755)
