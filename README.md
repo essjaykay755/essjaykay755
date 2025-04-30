@@ -24,7 +24,7 @@ Tools      : Git, Docker, VS Code
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)]([Your-Twitter-URL](https://x.com/essjaykay755))
 
 ### ⚡ Fun fact
-I love turning coffee into code! ☕
+I love turning chai into code! ☕
 
 ---
 ⭐️ From [essjaykay755](https://github.com/essjaykay755)
