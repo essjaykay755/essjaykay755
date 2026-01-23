@@ -4,7 +4,7 @@
 Full-stack developer, educator, and content creator from India 🇮🇳 passionate about building impactful products and sharing knowledge. Currently focused on ed-tech solutions and developer tools while building my personal brand.
 
 ### 🚀 Current Projects
-- **Glyphtic** - Study material app for CBSE/ICSE students (Classes 9-12)
+- **Glyphtic** - A full-stack, comprehensive Web Dev course 
 - **Social Media Tools** - Complaint/issue reporting platform
 - **Realtime Chat** - Messaging app built with Expo & React Native
 - **Developer Tools** - Collection of utilities (markdown reader, JSON formatter, etc.)
